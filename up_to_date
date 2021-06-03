@@ -1,0 +1,4 @@
+touch up_to_date #to create the file
+nano up_to_date #to edit the text
+git commit -m #to add commit
+git push #to push to remote
